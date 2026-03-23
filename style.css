@@ -19,6 +19,7 @@ body{
 }
 .from{
     margin:2rem 0 1rem 0 ;
+    margin-right:50px;
 
 }
 form select,button,input{
@@ -43,8 +44,8 @@ border-radius: 0.75rem;
 .select-container img{
     max-width:2rem;
 }
-i{
-    margin-right: 100px;
+.to{
+    margin-left: 50px;
 
 }
 .select-container{
